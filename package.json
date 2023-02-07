@@ -1,5 +1,5 @@
 {
-  "name": "open-ai-api",
+  "name": "openai-api-playground",
   "version": "1.0.0",
   "main": "src/index.ts",
   "author": "Jorge Barnaby <jorge.barnaby@gmail.com>",
